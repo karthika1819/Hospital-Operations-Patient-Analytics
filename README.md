@@ -60,6 +60,13 @@ Payment mode analysis
 Highest billing patients
 Department performance comparison
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ec703da-33d8-478f-aaab-95e5e72c5320" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54392489-7b68-419f-b2d1-9a1e74784848" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f4bdcb4-4356-4bf6-bc2e-c2d58ba7a5d6" />
+<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/c4a4e225-a896-4f90-8f95-1e641f0e184b" />
+
+
+
 Python Analysis
 
 Performed exploratory data analysis (EDA) using Pandas, NumPy, and Matplotlib to understand patient behavior and hospital performance through statistical analysis and visualizations.
@@ -72,6 +79,13 @@ Monthly patient visit trends
 Payment mode distribution
 Patient satisfaction analysis
 Business insights generation
+
+<img width="1805" height="941" alt="image" src="https://github.com/user-attachments/assets/b729077b-ac61-4194-b49f-4d1b6e5012e2" />
+<img width="1833" height="940" alt="image" src="https://github.com/user-attachments/assets/0fcbeb93-3f49-4a20-a6c0-683387b93da2" />
+<img width="1736" height="918" alt="image" src="https://github.com/user-attachments/assets/9b4661f5-40cf-4a8b-bf35-ad4db5517186" />
+<img width="1197" height="727" alt="image" src="https://github.com/user-attachments/assets/0fe02ba4-ca1c-4ee9-b066-ed36dff5f850" />
+
+
 
 Power BI Dashboard
 
@@ -88,20 +102,8 @@ Payment Mode Distribution
 Monthly Patient Visits
 Interactive Department & City Filters
 
- Tableau Dashboard
+<img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/9db64dd1-7584-421f-8295-51e671f714c9" />
 
-Built an interactive Tableau dashboard to visualize key hospital performance metrics and provide an alternative business intelligence reporting solution.
-
-Dashboard Features
-Total Patients KPI
-Total Revenue KPI
-Average Waiting Time KPI
-Department-wise Patient Analysis
-Revenue Analysis
-Payment Mode Distribution
-Monthly Patient Visits
-Patient Satisfaction Analysis
-Interactive Filters
 
 Key Business Insights
 Identified departments with the highest patient volume and revenue generation.
